@@ -1,0 +1,8 @@
+{
+  "name": "Completion",
+  "description": "Completion fractal NFT",
+  "image": "https://images.squarespace-cdn.com/content/v1/619165df327a3a2bcab775ca/d48c5480-4c80-4120-b700-f2f898140714/LOGO_MASTER_COMPLETION.png",
+  "external_link": "https://completion.one",
+  "seller_fee_basis_points": 1100, # Indicates a 1% seller fee.
+  "fee_recipient": "0x8CB82657dfeFCF69a62a3d09f4ddbC5Ace9Dc720" # Where seller fees will be paid to.
+}
