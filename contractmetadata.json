@@ -1,7 +1,7 @@
 {
-  "name": "Completion Fractal VR",
+  "name": "Completion Genesis",
   "description": "The Completion Genesis Collection is comprised of 5 VR experiences of 10 minutes each. \r\nThe experiences are beautiful spaces created by the worlds best fractal artist, accompanied by incredible music. \r\nThe experiences can only be accessed through the Completion VR app by owners of the Genesis NFTs.\r\nTo access your Completion experience create an account on www.completion.one and verify your NFT ownership.",
-  "image": "https://images.squarespace-cdn.com/content/v1/619165df327a3a2bcab775ca/d48c5480-4c80-4120-b700-f2f898140714/LOGO_MASTER_COMPLETION.png",
+  "image": "https://nft-assets.completion.one/Orb3.gif",
   "external_link": "https://completion.one",
   "seller_fee_basis_points": 1100,
   "fee_recipient": "0x8CB82657dfeFCF69a62a3d09f4ddbC5Ace9Dc720"
